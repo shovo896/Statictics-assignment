@@ -11,3 +11,4 @@ sum_value <- sum(numbers)
 cat("Numbers:", numbers, "\n")
 cat("Mean:", mean_value, "\n")
 cat("Sum:", sum_value, "\n")
+
